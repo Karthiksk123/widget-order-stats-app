@@ -1,0 +1,36 @@
+{
+  "orderStats": [
+    {
+      "category": "Revenue",
+      "inc": "10%",
+      "icon": "ArrowOutwardIcon",
+      "iconbg": "#fb8500",
+      "value": "$2.047",
+      "type": "Increased"
+    },
+    {
+      "category": "Orders",
+      "dec": "20%",
+      "icon": "LocalGroceryStoreIcon",
+      "iconbg": "#52b788",
+      "value": "356",
+      "type": "Decrased"
+    },
+    {
+      "category": "Dine In",
+      "inc": "10%",
+      "icon": "RestaurantMenuIcon",
+      "iconbg": "#d00000",
+      "value": "220",
+      "type": "Increased"
+    },
+    {
+      "category": "Take Away",
+      "dec": "5%",
+      "icon": "ShoppingBagIcon",
+      "iconbg": "#ffba08",
+      "value": "135",
+      "type": "decreased"
+    }
+  ]
+}
